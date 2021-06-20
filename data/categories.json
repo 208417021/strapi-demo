@@ -1,0 +1,66 @@
+[
+  {
+    "cid": 1,
+    "name": "dress",
+    "size": null,
+    "remote_url": "https://res.cloudinary.com/tku-edu-tw/image/upload/v1624171857/1_6d775c043a.jpg",
+    "local_url": "/img/shop/1.jpg",
+    "link_url": "/shop/dress"
+  },
+  {
+    "cid": 2,
+    "name": "watch",
+    "size": null,
+    "remote_url": "https://res.cloudinary.com/tku-edu-tw/image/upload/v1624171858/2_6f25fce714.jpg",
+    "local_url": "/img/shop/2.png",
+    "link_url": "/shop/watch"
+  },
+  {
+    "cid": 3,
+    "name": "suit",
+    "size": null,
+    "remote_url": "https://res.cloudinary.com/tku-edu-tw/image/upload/v1624171858/3_f6b99f53d0.jpg",
+    "local_url": "/img/shop/3.png",
+    "link_url": "/shop/suit"
+  },
+  {
+    "cid": 4,
+    "name": "purse",
+    "size": "large",
+    "remote_url": "https://res.cloudinary.com/tku-edu-tw/image/upload/v1624171858/4_f80994a3fd.jpg",
+    "local_url": "/img/shop/4.png",
+    "link_url": "/shop/purse"
+  },
+  {
+    "cid": 5,
+    "name": "bottomwear",
+    "size": "large",
+    "remote_url": "https://res.cloudinary.com/tku-edu-tw/image/upload/v1624171858/5_1b225c000b.jpg",
+    "local_url": "/img/shop/5.png",
+    "link_url": "/shop/bottomwear"
+  },
+  {
+    "cid": 6,
+    "name": "casual",
+    "size": "large",
+    "remote_url": "https://res.cloudinary.com/tku-edu-tw/image/upload/v1624171858/6_0559694857.jpg",
+    "local_url": "/img/shop/6.png",
+    "link_url": "/shop/casual"
+  },
+  {
+    "cid": 7,
+    "name": "shoes",
+    "size": "large",
+    "remote_url": "https://res.cloudinary.com/tku-edu-tw/image/upload/v1624171860/7_44ecf9d2b0.jpg",
+    "local_url": "/img/shop/7.png",
+    "link_url": "/shop/shoes"
+  },
+  {
+    "cid": 8,
+    "name": "sportwear",
+    "size": "large",
+    "remote_url": "https://res.cloudinary.com/tku-edu-tw/image/upload/v1624171861/8_0c3cf8ce08.jpg",
+    "local_url": "/img/shop/8.png",
+    "link_url": "/shop/sportwear"
+  }
+]
